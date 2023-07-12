@@ -1,6 +1,6 @@
 # Review: Arithmetic Lab
 
-## Learning Goals
+## Learning Goals 
 
 * Recognize the limitations of math in JavaScript
 * Employ operators to perform arithmetic and assign values to variables
